@@ -344,7 +344,7 @@ function (_React$Component) {
       "aria-label": "open drawer",
       onClick: this.props.onToggle
     }, react["createElement"](Menu_default.a, null)), react["createElement"](StyledAbsLink, {
-      href: "https://github.com/justadudewhohacks/face-api.js"
+      href: "https://github.com/intigration/face-api.js"
     }, react["createElement"]("h3", {
       style: {
         paddingLeft: 24
