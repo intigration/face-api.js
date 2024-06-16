@@ -138,7 +138,7 @@
         const { age, gender, genderProbability } = result
         new faceapi.draw.DrawTextField(
           [
-            `${faceapi.utils.round(age, 0)} years`,
+            `The Person age is likely to be ${faceapi.utils.round(age, 0)} years`,
             `${gender} (${faceapi.utils.round(genderProbability)})`
           ],
           result.detection.box.bottomLeft
