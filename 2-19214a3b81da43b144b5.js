@@ -355,7 +355,7 @@ function (_React$Component) {
       style: {
         paddingLeft: 24
       }
-    }, " API Documentation ")), react["createElement"](index_es["f" /* Divider */], null), react["createElement"](index_es["p" /* List */], null, this.props.items.map(function (item) {
+    }, " Vision Demo ")), react["createElement"](index_es["f" /* Divider */], null), react["createElement"](index_es["p" /* List */], null, this.props.items.map(function (item) {
       return react["createElement"](index_es["q" /* ListItem */], {
         key: item.linkTo
       }, react["createElement"](StyledLink, {
